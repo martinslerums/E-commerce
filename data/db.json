@@ -1,0 +1,226 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "product_name": "iPhone 13",
+      "product_description": "The latest iPhone with advanced features.",
+      "product_price": "999",
+      "product_category": "Phones",
+      "product_brand": "Apple",
+      "product_image": [
+        "https://images.1a.lv/display/aikido/cache/43787b8545a43744714aae6a88b4c6d9.jpeg",
+        "https://cdn.tet.lv/tetveikals-prd-images/full_size/products/iphone-13-starlight-pdp-image-position-1a-wwen-61434bee55a5b.jpg.webp"
+      ]
+    },
+    {
+      "id": "2",
+      "product_name": "Samsung Galaxy S21",
+      "product_description": "A flagship Android smartphone from Samsung.",
+      "product_price": "899",
+      "product_category": "Phones",
+      "product_brand": "Samsung",
+      "product_image": [
+        "https://images.1a.lv/display/aikido/cache/603a11de4c49a376e0e4894fca488896.jpeg"
+      ]
+    },
+    {
+      "id": "3",
+      "product_name": "MacBook Pro",
+      "product_description": "Powerful laptop for professionals.",
+      "product_price": "1999",
+      "product_category": "Laptops",
+      "product_brand": "Apple",
+      "product_image": [
+        "https://images.1a.lv/display/aikido/cache/5bb086aece77cda6bb7087103258690e.jpeg"
+      ]
+    },
+    {
+      "id": "4",
+      "product_name": "Dell XPS 13",
+      "product_description": "Slim and powerful ultrabook.",
+      "product_price": "1499",
+      "product_category": "Laptops",
+      "product_brand": "Dell",
+      "product_image": [
+        "https://images.1a.lv/display/aikido/cache/1d6ceeeebc99691a7b965456674070f6.png"
+      ]
+    },
+    {
+      "id": "5",
+      "product_name": "PlayStation 5",
+      "product_description": "Next-gen gaming console from Sony.",
+      "product_price": "499",
+      "product_category": "Consoles",
+      "product_brand": "Sony",
+      "product_image": [
+        "https://images.1a.lv/display/aikido/store/735a95cdaa5390e7e51532f739653c31.jpg"
+      ]
+    },
+    {
+      "id": "6",
+      "product_name": "Xbox Series X",
+      "product_description": "Microsoft's latest gaming console.",
+      "product_price": "499",
+      "product_category": "Consoles",
+      "product_brand": "Microsoft",
+      "product_image": [
+        "https://images.1a.lv/display/aikido/cache/9ba6a5a3e257c5fe0e93be93a75ad2ec.jpeg",
+        "https://images.1a.lv/display/aikido/cache/c9317ff51732399df0239ece105caf35.jpeg"
+      ]
+    },
+    {
+      "id": "7",
+      "product_name": "Apple AirPods Pro",
+      "product_description": "Premium wireless earphones from Apple.",
+      "product_price": "249",
+      "product_category": "Accessories",
+      "product_brand": "Apple",
+      "product_image": [
+        "https://images.1a.lv/display/aikido/cache/22f92a244c466d020d43e91f60f142ad.jpeg"
+      ]
+    },
+    {
+      "id": "8",
+      "product_name": "Logitech MX Master 3",
+      "product_description": "Advanced wireless mouse for productivity.",
+      "product_price": "99",
+      "product_category": "Accessories",
+      "product_brand": "Logitech",
+      "product_image": [
+        "https://images.1a.lv/display/aikido/cache/4f4ad579690b9afa00ce2dd3cece1742.jpeg"
+      ]
+    },
+    {
+      "id": "9",
+      "product_name": "iPhone SE",
+      "product_description": "Affordable yet powerful iPhone with the latest features.",
+      "product_price": "499",
+      "product_category": "Phones",
+      "product_brand": "Apple",
+      "product_image": [
+        "https://images.1a.lv/display/aikido/cache/c154697f03f6da8bf55e568afaac3f2d.jpeg"
+      ]
+    },
+    {
+      "id": "10",
+      "product_name": "Dell XPS 15",
+      "product_description": "Powerful and sleek laptop for professionals.",
+      "product_price": "1799",
+      "product_category": "Laptops",
+      "product_brand": "Dell",
+      "product_image": [
+        "https://images.1a.lv/display/aikido/cache/a39a6b13545077de2b615e4c24be0e0b.jpeg"
+      ]
+    },
+    {
+      "id": "11",
+      "product_name": "Nintendo Switch",
+      "product_description": "Hybrid gaming console from Nintendo.",
+      "product_price": "299",
+      "product_category": "Consoles",
+      "product_brand": "Nintendo",
+      "product_image": [
+        "https://images.1a.lv/display/aikido/cache/79ddf8525126efeffa10a64f34c58bbc.jpeg"
+      ]
+    },
+    {
+      "id": "12",
+      "product_name": "Samsung Galaxy Buds Pro",
+      "product_description": "Wireless earbuds with premium sound quality.",
+      "product_price": "199",
+      "product_category": "Accessories",
+      "product_brand": "Samsung",
+      "product_image": [
+        "https://images.1a.lv/display/aikido/cache/a70bf9838576662be6566df6b3dcd059.jpeg"
+      ]
+    },
+    {
+      "id": "13",
+      "product_name": "Samsung Galaxy S22 Ultra",
+      "product_description": "Flagship Android smartphone with top-tier features.",
+      "product_price": "1299",
+      "product_category": "Phones",
+      "product_brand": "Samsung",
+      "product_image": [
+        "https://images.1a.lv/display/aikido/cache/59b3eb4461d3838fc39202167abb0a06.jpeg"
+      ]
+    },
+    {
+      "id": "14",
+      "product_name": "HP Spectre x360",
+      "product_description": "Convertible laptop with a sleek design.",
+      "product_price": "1299",
+      "product_category": "Laptops",
+      "product_brand": "HP",
+      "product_image": [
+        "https://images.1a.lv/display/aikido/cache/fa3903510e42c61b850ab420d7a2630a.jpeg"
+      ]
+    },
+    {
+      "id": "15",
+      "product_name": "HP ENVY x360",
+      "product_description": "Versatile laptop with 360-degree hinge and powerful performance.",
+      "product_price": "1099",
+      "product_category": "Laptops",
+      "product_brand": "HP",
+      "product_image": [
+        "https://images.1a.lv/display/aikido/cache/194cc7f0cfe716bff98c02fee9b29052.jpeg"
+      ]
+    },
+    {
+      "id": "16",
+      "product_name": "Sony PlayStation VR",
+      "product_description": "Virtual reality headset for PS4 and PS5.",
+      "product_price": "299",
+      "product_category": "Accessories",
+      "product_brand": "Sony",
+      "product_image": [
+        "https://images.1a.lv/display/aikido/store/97c60a7383c6db7bed59d3a7cd78ee44.jpg"
+      ]
+    },
+    {
+      "id": "17",
+      "product_name": "Samsung Galaxy Tab S7+",
+      "product_description": "Premium Android tablet with S Pen support.",
+      "product_price": "849",
+      "product_category": "Tablets",
+      "product_brand": "Samsung",
+      "product_image": [
+        "https://images.1a.lv/display/aikido/cache/bc493298bc3541fdde283c83a6205f84.jpeg"
+      ]
+    },
+    {
+      "id": "18",
+      "product_name": "Microsoft Arc Mouse",
+      "product_description": "Slim and lightweight wireless mouse with a unique design.",
+      "product_price": "79",
+      "product_category": "Accessories",
+      "product_brand": "Microsoft",
+      "product_image": [
+        "https://images.1a.lv/display/aikido/store/86793295fbaa77065e48ec9de03df1cb.jpg"
+      ]
+    },
+    {
+      "id": "19",
+      "product_name": "ASUS ROG Zephyrus G14",
+      "product_description": "Powerful gaming laptop with a compact design.",
+      "product_price": "1499",
+      "product_category": "Laptops",
+      "product_brand": "ASUS",
+      "product_image": [
+        "https://images.1a.lv/display/aikido/store/4e81c4bcfb7f83067a3aa60523f4081e.jpg"
+      ]
+    },
+    {
+      "id": "20",
+      "product_name": "Apple Watch Series 7",
+      "product_description": "Latest smartwatch with advanced health features.",
+      "product_price": "399",
+      "product_category": "Accessories",
+      "product_brand": "Apple",
+      "product_image": [
+        "https://images.1a.lv/display/aikido/store/2ed70a0f43b5edd7ea26c01adc77e7c8.png"
+      ]
+    }
+  ]
+}

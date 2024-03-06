@@ -1,0 +1,76 @@
+.form_wrapper {
+  width: 100%;
+  margin-top: 100px;
+}
+
+.form {
+  width: 100%;
+  max-width: 480px;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  padding: 25px 20px;
+  border-radius: 5px;
+  box-shadow: rgba(149, 157, 165, 0.3) 0px 12px 48px 0px;
+}
+
+.title {
+  font-size: 24px;
+  text-align: center;
+}
+
+.inputWrapper {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+}
+
+.label {
+  font-size: 14px;
+  font-weight: 600;
+}
+
+.input {
+  resize: vertical;
+  display: inline-block;
+  padding: 0 16px 0 12px;
+  width: 100%;
+  line-height: 30px;
+  min-height: 32px;
+  border: 1px solid #dddbda;
+  border-radius: 4px;
+  background-color: #fff;
+  color: rgb(8, 7, 7);
+  transition: border 0.1s linear, background-color 0.1s linear;
+}
+
+.input:focus {
+  outline: none;
+  border-color: #1b96ff;
+  box-shadow: rgb(1, 118, 211) 0px 0px 3px 0px;
+}
+
+.buttonWrapper {
+  display: flex;
+  justify-content: center;
+}
+
+.button {
+  display: inline-block;
+  outline: none;
+  cursor: pointer;
+  padding: 5px 16px;
+  background-color: #fff;
+  border-radius: 0.25rem;
+  border: 1px solid #0070d2;
+  color: #0070d2;
+  font-size: 16px;
+  line-height: 30px;
+  font-weight: 400;
+  text-align: center;
+}
+
+.button:hover {
+  background-color: #f4f6f9;
+}

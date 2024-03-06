@@ -1,0 +1,60 @@
+.filter {
+  max-width: 200px;
+  width: 100%;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  padding: 50px 30px;
+  gap: 20px;
+
+  background-color: rgb(19, 19, 19);
+}
+
+.categoryNameWrapper {
+  display: flex;
+  align-items: center;
+  margin-bottom: 7px;
+}
+
+.categoryName {
+  color: white;
+  margin: 0;
+  font-size: 14px;
+}
+
+.brandsFilter {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+}
+
+.categoriesFilter {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+}
+
+.filterValue {
+  color: white;
+  font-size: 12px;
+  margin-left: 5px;
+}
+
+.arrowIcon {
+  transition: transform 0.3s ease-in-out;
+  font-size: 24px;
+  color: white;
+}
+
+.open {
+  transform: rotate(180deg);
+}
+
+.test {
+  scale: 0;
+}
+
+.asd {
+  transform-origin: right;
+  transition-duration: 500ms;
+}
